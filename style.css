@@ -80,7 +80,7 @@
   .stats {
     font-family: 'Fira Sans Condensed', sans-serif;
     font-family: 'Montserrat', sans-serif;
-    text-align: left;
+    text-align: left; 
   }
   
   .info {
@@ -96,7 +96,6 @@
   }
 
   #newGameButton {
-    
     font-family: 'Montserrat', sans-serif;
     border-radius: 8px;
   }
